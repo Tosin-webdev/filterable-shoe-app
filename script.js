@@ -92,7 +92,7 @@ const shoes = [
     title: "Nike swiss",
     category: "nike",
     price: 9.99,
-    img: "./images/nike2.jpg",
+    img: "./images/adidasnew.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
