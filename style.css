@@ -1,6 +1,8 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+/* section head  */
 .title {
   text-align: center;
 }
@@ -61,6 +63,7 @@ img {
   width: 80%;
 }
 
+/* section-head end */
 @media screen and (max-width: 960px) {
   .menu-item {
     grid-template-columns: 1fr;
