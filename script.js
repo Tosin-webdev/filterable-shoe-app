@@ -44,7 +44,7 @@ const shoes = [
     title: "Jordan I",
     category: "jordan",
     price: 18.99,
-    img: "./images/jordannew.jpg",
+    img: "./images/adidasnew.jpg",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
@@ -68,7 +68,7 @@ const shoes = [
     title: "Adidas superstar",
     category: "adidas",
     price: 16.99,
-    img: "./images/adidas6.jpg",
+    img: "./images/jordannew.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
@@ -92,7 +92,7 @@ const shoes = [
     title: "Nike swiss",
     category: "nike",
     price: 9.99,
-    img: "./images/adidasnew.jpg",
+    img: "./images/nike2.jpg",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
