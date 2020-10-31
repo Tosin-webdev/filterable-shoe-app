@@ -44,7 +44,7 @@ const shoes = [
     title: "Jordan I",
     category: "jordan",
     price: 18.99,
-    img: "./images/jordan.jpg",
+    img: "./images/jordannew.jpg",
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {

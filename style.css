@@ -44,8 +44,6 @@ body {
   grid-template-columns: repeat(2, 1fr);
   padding: 0 8rem;
   text-align: center;
-
-  /* max-width: 25rem; */
 }
 
 .photo {
