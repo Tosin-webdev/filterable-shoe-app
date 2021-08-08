@@ -1,3 +1,3 @@
 # filterable-shoe-app
 
-* This is a website where you which check different brands of shoes
+* This is a website where you can view different brands of shoes.
